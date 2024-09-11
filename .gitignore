@@ -11,3 +11,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 data/*
+__pycache__/my_net.cpython-312.pyc
+__pycache__/my_sampler.cpython-312.pyc
+.vscode/launch.json
